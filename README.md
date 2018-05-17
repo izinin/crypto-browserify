@@ -1,4 +1,14 @@
-# crypto-browserify
+# cryptojson-browserify
+
+
+The fork gives a ready-to-use example on crypto/json, i found the original repo does not provide enough explaination on how to use the bundle.js out of the box, hence this fork is created.
+
+download bundle3.js and index.html into your local folder.
+
+Voila, you have a working cipher encryption on your browser html, no more npm/browserify/node compiling required.
+
+
+
 
 A port of node's `crypto` module to the browser.
 
